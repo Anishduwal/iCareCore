@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\iCareCore\iCareCore.BLL\obj\Debug\net8.0\iCareCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\iCareCore\iCareCore.BLL\obj\Debug\net8.0\iCareCore.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\iCareCore\iCareCore.BLL\obj\Debug\net8.0\iCareCore.Application.AssemblyInfo.cs
+C:\Users\Admin\source\repos\iCareCore\iCareCore.BLL\obj\Debug\net8.0\iCareCore.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\iCareCore\iCareCore.BLL\bin\Debug\net8.0\iCareCore.Application.deps.json
+C:\Users\Admin\source\repos\iCareCore\iCareCore.BLL\bin\Debug\net8.0\iCareCore.Application.dll
+C:\Users\Admin\source\repos\iCareCore\iCareCore.BLL\bin\Debug\net8.0\iCareCore.Application.pdb
+C:\Users\Admin\source\repos\iCareCore\iCareCore.BLL\bin\Debug\net8.0\iCareCore.Core.dll
+C:\Users\Admin\source\repos\iCareCore\iCareCore.BLL\bin\Debug\net8.0\iCareCore.Core.pdb
+C:\Users\Admin\source\repos\iCareCore\iCareCore.BLL\obj\Debug\net8.0\iCareCore.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\iCareCore\iCareCore.BLL\obj\Debug\net8.0\iCareCor.C8EC2E04.Up2Date
+C:\Users\Admin\source\repos\iCareCore\iCareCore.BLL\obj\Debug\net8.0\iCareCore.Application.dll
+C:\Users\Admin\source\repos\iCareCore\iCareCore.BLL\obj\Debug\net8.0\refint\iCareCore.Application.dll
+C:\Users\Admin\source\repos\iCareCore\iCareCore.BLL\obj\Debug\net8.0\iCareCore.Application.pdb
+C:\Users\Admin\source\repos\iCareCore\iCareCore.BLL\obj\Debug\net8.0\ref\iCareCore.Application.dll

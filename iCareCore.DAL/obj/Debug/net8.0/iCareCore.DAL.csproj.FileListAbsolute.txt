@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\iCareCore\iCareCore.DAL\bin\Debug\net8.0\iCareCore.DAL.deps.json
+C:\Users\Admin\source\repos\iCareCore\iCareCore.DAL\bin\Debug\net8.0\iCareCore.DAL.dll
+C:\Users\Admin\source\repos\iCareCore\iCareCore.DAL\bin\Debug\net8.0\iCareCore.DAL.pdb
+C:\Users\Admin\source\repos\iCareCore\iCareCore.DAL\bin\Debug\net8.0\iCareCore.Models.dll
+C:\Users\Admin\source\repos\iCareCore\iCareCore.DAL\bin\Debug\net8.0\iCareCore.Models.pdb
+C:\Users\Admin\source\repos\iCareCore\iCareCore.DAL\obj\Debug\net8.0\iCareCore.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\iCareCore\iCareCore.DAL\obj\Debug\net8.0\iCareCore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\iCareCore\iCareCore.DAL\obj\Debug\net8.0\iCareCore.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\iCareCore\iCareCore.DAL\obj\Debug\net8.0\iCareCore.DAL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\iCareCore\iCareCore.DAL\obj\Debug\net8.0\iCareCore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\iCareCore\iCareCore.DAL\obj\Debug\net8.0\iCareCor.06BD5E7C.Up2Date
+C:\Users\Admin\source\repos\iCareCore\iCareCore.DAL\obj\Debug\net8.0\iCareCore.DAL.dll
+C:\Users\Admin\source\repos\iCareCore\iCareCore.DAL\obj\Debug\net8.0\refint\iCareCore.DAL.dll
+C:\Users\Admin\source\repos\iCareCore\iCareCore.DAL\obj\Debug\net8.0\iCareCore.DAL.pdb
+C:\Users\Admin\source\repos\iCareCore\iCareCore.DAL\obj\Debug\net8.0\ref\iCareCore.DAL.dll

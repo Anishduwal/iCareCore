@@ -1,0 +1,43 @@
+[
+  {
+    "ContainingType": "iCareCore.API.Controllers.PEPController",
+    "Method": "DEBAConnect",
+    "RelativePath": "DEBAConnect",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "father_name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "mother_name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "spouse_name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[iCareCore.Models.Entities.ResponseDTOs.ListData, iCareCore.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
