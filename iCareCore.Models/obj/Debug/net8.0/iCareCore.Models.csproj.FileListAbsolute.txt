@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\iCareCore\iCareCore.Models\bin\Debug\net8.0\iCareCore.Models.deps.json
+C:\Users\Admin\source\repos\iCareCore\iCareCore.Models\bin\Debug\net8.0\iCareCore.Models.dll
+C:\Users\Admin\source\repos\iCareCore\iCareCore.Models\bin\Debug\net8.0\iCareCore.Models.pdb
+C:\Users\Admin\source\repos\iCareCore\iCareCore.Models\obj\Debug\net8.0\iCareCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\iCareCore\iCareCore.Models\obj\Debug\net8.0\iCareCore.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\iCareCore\iCareCore.Models\obj\Debug\net8.0\iCareCore.Models.AssemblyInfo.cs
+C:\Users\Admin\source\repos\iCareCore\iCareCore.Models\obj\Debug\net8.0\iCareCore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\iCareCore\iCareCore.Models\obj\Debug\net8.0\iCareCore.Models.dll
+C:\Users\Admin\source\repos\iCareCore\iCareCore.Models\obj\Debug\net8.0\refint\iCareCore.Models.dll
+C:\Users\Admin\source\repos\iCareCore\iCareCore.Models\obj\Debug\net8.0\iCareCore.Models.pdb
+C:\Users\Admin\source\repos\iCareCore\iCareCore.Models\obj\Debug\net8.0\ref\iCareCore.Models.dll

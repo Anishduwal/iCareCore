@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "iCareCore.Application/1.0.0": {
+        "dependencies": {
+          "iCareCore.Core": "1.0.0"
+        },
+        "runtime": {
+          "iCareCore.Application.dll": {}
+        }
+      },
+      "iCareCore.Core/1.0.0": {
+        "runtime": {
+          "iCareCore.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "iCareCore.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "iCareCore.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

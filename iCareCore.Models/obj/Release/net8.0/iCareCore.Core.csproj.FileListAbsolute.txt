@@ -1,0 +1,11 @@
+C:\iCareCore\iCareCore.Models\bin\Release\net8.0\iCareCore.Core.deps.json
+C:\iCareCore\iCareCore.Models\bin\Release\net8.0\iCareCore.Core.dll
+C:\iCareCore\iCareCore.Models\bin\Release\net8.0\iCareCore.Core.pdb
+C:\iCareCore\iCareCore.Models\obj\Release\net8.0\iCareCore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\iCareCore\iCareCore.Models\obj\Release\net8.0\iCareCore.Core.AssemblyInfoInputs.cache
+C:\iCareCore\iCareCore.Models\obj\Release\net8.0\iCareCore.Core.AssemblyInfo.cs
+C:\iCareCore\iCareCore.Models\obj\Release\net8.0\iCareCore.Core.csproj.CoreCompileInputs.cache
+C:\iCareCore\iCareCore.Models\obj\Release\net8.0\iCareCore.Core.dll
+C:\iCareCore\iCareCore.Models\obj\Release\net8.0\refint\iCareCore.Core.dll
+C:\iCareCore\iCareCore.Models\obj\Release\net8.0\iCareCore.Core.pdb
+C:\iCareCore\iCareCore.Models\obj\Release\net8.0\ref\iCareCore.Core.dll

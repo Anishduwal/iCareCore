@@ -1,0 +1,15 @@
+C:\iCareCore\iCareCore.BLL\bin\Release\net8.0\iCareCore.Application.deps.json
+C:\iCareCore\iCareCore.BLL\bin\Release\net8.0\iCareCore.Application.dll
+C:\iCareCore\iCareCore.BLL\bin\Release\net8.0\iCareCore.Application.pdb
+C:\iCareCore\iCareCore.BLL\bin\Release\net8.0\iCareCore.Core.dll
+C:\iCareCore\iCareCore.BLL\bin\Release\net8.0\iCareCore.Core.pdb
+C:\iCareCore\iCareCore.BLL\obj\Release\net8.0\iCareCore.Application.csproj.AssemblyReference.cache
+C:\iCareCore\iCareCore.BLL\obj\Release\net8.0\iCareCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\iCareCore\iCareCore.BLL\obj\Release\net8.0\iCareCore.Application.AssemblyInfoInputs.cache
+C:\iCareCore\iCareCore.BLL\obj\Release\net8.0\iCareCore.Application.AssemblyInfo.cs
+C:\iCareCore\iCareCore.BLL\obj\Release\net8.0\iCareCore.Application.csproj.CoreCompileInputs.cache
+C:\iCareCore\iCareCore.BLL\obj\Release\net8.0\iCareCor.C8EC2E04.Up2Date
+C:\iCareCore\iCareCore.BLL\obj\Release\net8.0\iCareCore.Application.dll
+C:\iCareCore\iCareCore.BLL\obj\Release\net8.0\refint\iCareCore.Application.dll
+C:\iCareCore\iCareCore.BLL\obj\Release\net8.0\iCareCore.Application.pdb
+C:\iCareCore\iCareCore.BLL\obj\Release\net8.0\ref\iCareCore.Application.dll

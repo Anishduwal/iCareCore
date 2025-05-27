@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\iCareCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA6B6EB-1750-4605-A7FA-132486E5E65C}|iCareCore\\iCareCore.API.csproj|c:\\icarecore\\icarecore\\controllers\\pepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA6B6EB-1750-4605-A7FA-132486E5E65C}|iCareCore\\iCareCore.API.csproj|solutionrelative:icarecore\\controllers\\pepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{704FF715-DCF3-47EC-95A4-1EC03C355F87}|iCareCore.BLL\\iCareCore.Application.csproj|c:\\icarecore\\icarecore.bll\\services\\dbanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{704FF715-DCF3-47EC-95A4-1EC03C355F87}|iCareCore.BLL\\iCareCore.Application.csproj|solutionrelative:icarecore.bll\\services\\dbanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000E61BE-5FAE-41AB-A0E0-0A0CEC6BB749}|iCareCore.DAL\\iCareCore.Infrastructure.csproj|c:\\icarecore\\icarecore.dal\\dbhelper\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000E61BE-5FAE-41AB-A0E0-0A0CEC6BB749}|iCareCore.DAL\\iCareCore.Infrastructure.csproj|solutionrelative:icarecore.dal\\dbhelper\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA6B6EB-1750-4605-A7FA-132486E5E65C}|iCareCore\\iCareCore.API.csproj|c:\\icarecore\\icarecore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA6B6EB-1750-4605-A7FA-132486E5E65C}|iCareCore\\iCareCore.API.csproj|solutionrelative:icarecore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA6B6EB-1750-4605-A7FA-132486E5E65C}|iCareCore\\iCareCore.API.csproj|c:\\icarecore\\icarecore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAA6B6EB-1750-4605-A7FA-132486E5E65C}|iCareCore\\iCareCore.API.csproj|solutionrelative:icarecore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB10EF1-381E-4764-9EB1-D38B5231A175}|iCareCore.Models\\iCareCore.Core.csproj|c:\\icarecore\\icarecore.models\\entities\\responsedtos\\dbanloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB10EF1-381E-4764-9EB1-D38B5231A175}|iCareCore.Models\\iCareCore.Core.csproj|solutionrelative:icarecore.models\\entities\\responsedtos\\dbanloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB10EF1-381E-4764-9EB1-D38B5231A175}|iCareCore.Models\\iCareCore.Core.csproj|c:\\icarecore\\icarecore.models\\entities\\requestdtos\\enquiryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB10EF1-381E-4764-9EB1-D38B5231A175}|iCareCore.Models\\iCareCore.Core.csproj|solutionrelative:icarecore.models\\entities\\requestdtos\\enquiryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB10EF1-381E-4764-9EB1-D38B5231A175}|iCareCore.Models\\iCareCore.Core.csproj|c:\\icarecore\\icarecore.models\\entities\\responsedtos\\dbanenquiryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB10EF1-381E-4764-9EB1-D38B5231A175}|iCareCore.Models\\iCareCore.Core.csproj|solutionrelative:icarecore.models\\entities\\responsedtos\\dbanenquiryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB10EF1-381E-4764-9EB1-D38B5231A175}|iCareCore.Models\\iCareCore.Core.csproj|c:\\icarecore\\icarecore.models\\entities\\requestdtos\\dbanlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB10EF1-381E-4764-9EB1-D38B5231A175}|iCareCore.Models\\iCareCore.Core.csproj|solutionrelative:icarecore.models\\entities\\requestdtos\\dbanlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000E61BE-5FAE-41AB-A0E0-0A0CEC6BB749}|iCareCore.DAL\\iCareCore.Infrastructure.csproj|c:\\icarecore\\icarecore.dal\\repo\\dbanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000E61BE-5FAE-41AB-A0E0-0A0CEC6BB749}|iCareCore.DAL\\iCareCore.Infrastructure.csproj|solutionrelative:icarecore.dal\\repo\\dbanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB10EF1-381E-4764-9EB1-D38B5231A175}|iCareCore.Models\\iCareCore.Core.csproj|c:\\icarecore\\icarecore.models\\irepo\\idbanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB10EF1-381E-4764-9EB1-D38B5231A175}|iCareCore.Models\\iCareCore.Core.csproj|solutionrelative:icarecore.models\\irepo\\idbanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA6B6EB-1750-4605-A7FA-132486E5E65C}|iCareCore\\iCareCore.API.csproj|c:\\icarecore\\icarecore\\icarecore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAA6B6EB-1750-4605-A7FA-132486E5E65C}|iCareCore\\iCareCore.API.csproj|solutionrelative:icarecore\\icarecore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PEPController.cs",
+              "DocumentMoniker": "C:\\iCareCore\\iCareCore\\Controllers\\PEPController.cs",
+              "RelativeDocumentMoniker": "iCareCore\\Controllers\\PEPController.cs",
+              "ToolTip": "C:\\iCareCore\\iCareCore\\Controllers\\PEPController.cs",
+              "RelativeToolTip": "iCareCore\\Controllers\\PEPController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:59:12.867Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBANService.cs",
+              "DocumentMoniker": "C:\\iCareCore\\iCareCore.BLL\\Services\\DBANService.cs",
+              "RelativeDocumentMoniker": "iCareCore.BLL\\Services\\DBANService.cs",
+              "ToolTip": "C:\\iCareCore\\iCareCore.BLL\\Services\\DBANService.cs",
+              "RelativeToolTip": "iCareCore.BLL\\Services\\DBANService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAEwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:21:29.167Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbConn.cs",
+              "DocumentMoniker": "C:\\iCareCore\\iCareCore.DAL\\DbHelper\\DbConn.cs",
+              "RelativeDocumentMoniker": "iCareCore.DAL\\DbHelper\\DbConn.cs",
+              "ToolTip": "C:\\iCareCore\\iCareCore.DAL\\DbHelper\\DbConn.cs",
+              "RelativeToolTip": "iCareCore.DAL\\DbHelper\\DbConn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:04:42.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DBANEnquiryResponse.cs",
+              "DocumentMoniker": "C:\\iCareCore\\iCareCore.Models\\Entities\\ResponseDTOs\\DBANEnquiryResponse.cs",
+              "RelativeDocumentMoniker": "iCareCore.Models\\Entities\\ResponseDTOs\\DBANEnquiryResponse.cs",
+              "ToolTip": "C:\\iCareCore\\iCareCore.Models\\Entities\\ResponseDTOs\\DBANEnquiryResponse.cs",
+              "RelativeToolTip": "iCareCore.Models\\Entities\\ResponseDTOs\\DBANEnquiryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:52:31.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnquiryRequest.cs",
+              "DocumentMoniker": "C:\\iCareCore\\iCareCore.Models\\Entities\\RequestDTOs\\EnquiryRequest.cs",
+              "RelativeDocumentMoniker": "iCareCore.Models\\Entities\\RequestDTOs\\EnquiryRequest.cs",
+              "ToolTip": "C:\\iCareCore\\iCareCore.Models\\Entities\\RequestDTOs\\EnquiryRequest.cs",
+              "RelativeToolTip": "iCareCore.Models\\Entities\\RequestDTOs\\EnquiryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:52:25.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBANLogin.cs",
+              "DocumentMoniker": "C:\\iCareCore\\iCareCore.Models\\Entities\\RequestDTOs\\DBANLogin.cs",
+              "RelativeDocumentMoniker": "iCareCore.Models\\Entities\\RequestDTOs\\DBANLogin.cs",
+              "ToolTip": "C:\\iCareCore\\iCareCore.Models\\Entities\\RequestDTOs\\DBANLogin.cs",
+              "RelativeToolTip": "iCareCore.Models\\Entities\\RequestDTOs\\DBANLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:52:15.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iCareCore\\iCareCore\\Program.cs",
+              "RelativeDocumentMoniker": "iCareCore\\Program.cs",
+              "ToolTip": "C:\\iCareCore\\iCareCore\\Program.cs",
+              "RelativeToolTip": "iCareCore\\Program.cs",
+              "ViewState": "AgIAAAEAAAAYMjMzMzMbwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:57:30.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\iCareCore\\iCareCore\\appsettings.json",
+              "RelativeDocumentMoniker": "iCareCore\\appsettings.json",
+              "ToolTip": "C:\\iCareCore\\iCareCore\\appsettings.json",
+              "RelativeToolTip": "iCareCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T09:53:54.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBANLoginResponse.cs",
+              "DocumentMoniker": "C:\\iCareCore\\iCareCore.Models\\Entities\\ResponseDTOs\\DBANLoginResponse.cs",
+              "RelativeDocumentMoniker": "iCareCore.Models\\Entities\\ResponseDTOs\\DBANLoginResponse.cs",
+              "ToolTip": "C:\\iCareCore\\iCareCore.Models\\Entities\\ResponseDTOs\\DBANLoginResponse.cs",
+              "RelativeToolTip": "iCareCore.Models\\Entities\\ResponseDTOs\\DBANLoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:52:37.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBANRepo.cs",
+              "DocumentMoniker": "C:\\iCareCore\\iCareCore.DAL\\Repo\\DBANRepo.cs",
+              "RelativeDocumentMoniker": "iCareCore.DAL\\Repo\\DBANRepo.cs",
+              "ToolTip": "C:\\iCareCore\\iCareCore.DAL\\Repo\\DBANRepo.cs",
+              "RelativeToolTip": "iCareCore.DAL\\Repo\\DBANRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:13:48.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDBANRepo.cs",
+              "DocumentMoniker": "C:\\iCareCore\\iCareCore.Models\\IRepo\\IDBANRepo.cs",
+              "RelativeDocumentMoniker": "iCareCore.Models\\IRepo\\IDBANRepo.cs",
+              "ToolTip": "C:\\iCareCore\\iCareCore.Models\\IRepo\\IDBANRepo.cs",
+              "RelativeToolTip": "iCareCore.Models\\IRepo\\IDBANRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:13:40.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "iCareCore.API.csproj",
+              "DocumentMoniker": "C:\\iCareCore\\iCareCore\\iCareCore.API.csproj",
+              "RelativeDocumentMoniker": "iCareCore\\iCareCore.API.csproj",
+              "ToolTip": "C:\\iCareCore\\iCareCore\\iCareCore.API.csproj",
+              "RelativeToolTip": "iCareCore\\iCareCore.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T10:17:43.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
