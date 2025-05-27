@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\iCareCore\\iCareCore.Models\\iCareCore.Core.csproj": {}
+    "C:\\iCareCore\\iCareCore.Models\\iCareCore.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\iCareCore\\iCareCore.Models\\iCareCore.Core.csproj": {
+    "C:\\iCareCore\\iCareCore.Models\\iCareCore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\iCareCore\\iCareCore.Models\\iCareCore.Core.csproj",
+        "projectUniqueName": "C:\\iCareCore\\iCareCore.Models\\iCareCore.Core.csproj",
         "projectName": "iCareCore.Core",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\iCareCore\\iCareCore.Models\\iCareCore.Core.csproj",
+        "projectPath": "C:\\iCareCore\\iCareCore.Models\\iCareCore.Core.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\iCareCore\\iCareCore.Models\\obj\\",
+        "outputPath": "C:\\iCareCore\\iCareCore.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
